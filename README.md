@@ -3,6 +3,9 @@ This is just a design concept of Material Design Dashboard - Code - which is alr
 Find it in https://www.youtube.com/watch?v=h962rCLfGuA
 This is only a concept UI and the backend code is not there. Just an idea of Mobile Application Usage Dashboard.
 
+
+![Screenshot](https://raw.githubusercontent.com/vasanthmes/WPF-Dashboard-UI-Material-Design-Concept/master/screenshots/Material-Design-WPF-Dashboard-UI-Speed-Design-Thumbnail.png)
+
 ## Getting Started
 
 Don't know how it looks? Check out https://www.youtube.com/watch?v=h962rCLfGuA to see the end result and speed design.
